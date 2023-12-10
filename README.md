@@ -21,3 +21,4 @@ cd IamJimmy02.github.io
 git add .
 git commit -m "Primer commit: Agregar mi página web"
 git push origin main
+star
